@@ -1,4 +1,4 @@
 *.exe
 *.bin
-./dir/mydir
+./dir/mydir/*
 *temporary.*
