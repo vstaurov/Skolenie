@@ -11,3 +11,4 @@ halucinogenne (pri predavkovani)
 lacne (lacnejsie ako voda v krcme)
 svetle / tmave
 flaskove, plechovkove, plastove a capovane
+indianky, brunety a ine
