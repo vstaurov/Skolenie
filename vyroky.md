@@ -1,5 +1,4 @@
 <p align=center>Bez tychto ludi by to nebolo take super.</p>
-Bez tychto ludi by to nebolo take super.
 
 1.
 ![image](https://i.pinimg.com/736x/85/b6/d6/85b6d6a7bfa7a7730cb6cc7e0c7ccd59.jpg)
